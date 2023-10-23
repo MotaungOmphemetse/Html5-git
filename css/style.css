@@ -1,0 +1,42 @@
+html {
+    background-color: #ff8500;
+  }
+  
+  body {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Gill Sans, sans-serif;
+    font-size: 1.2em;
+    color: #404040;
+    background-color: gray;
+    padding: 10px;
+    padding-top: 0px;
+  }
+  
+  a {
+    color: #3aa6d0;
+    text-decoration: none;
+  }
+  
+  /* H TAGS */
+  
+  h1 {
+    font-size: 3em;
+    color: FF2C00;
+    align: center;
+  }
+  
+  h1.toptitle {
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    color: #ff8500;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    color: #00b945;
+  }
